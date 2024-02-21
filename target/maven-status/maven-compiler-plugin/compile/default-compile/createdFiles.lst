@@ -1,0 +1,5 @@
+edu\iit\sat\itmd4515\mmilowicki\resources\JakartaEE8Resource.class
+edu\iit\sat\itmd4515\mmilowicki\web\EmployeeServlet.class
+edu\iit\sat\itmd4515\mmilowicki\web\miloServlet.class
+edu\iit\sat\itmd4515\mmilowicki\domain\Employee.class
+edu\iit\sat\itmd4515\mmilowicki\JakartaRestConfiguration.class
